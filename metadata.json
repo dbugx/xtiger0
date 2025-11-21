@@ -1,0 +1,5 @@
+{
+  "name": "xtiger0",
+  "description": "A modern, responsive directory explorer application built with React and Tailwind CSS. It allows users to navigate a file system, create new folders and files, rename items, and delete them.",
+  "requestFramePermissions": []
+}
